@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLibrary", "VideoLibrary\VideoLibrary.csproj", "{0EE50412-7B1E-4DA5-9F0F-F1DF658C74C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLibraryData", "VideoLibraryData\VideoLibraryData.csproj", "{1176DE03-7BA1-4DAA-A146-2D95715FCD8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{0EE50412-7B1E-4DA5-9F0F-F1DF658C74C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE50412-7B1E-4DA5-9F0F-F1DF658C74C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE50412-7B1E-4DA5-9F0F-F1DF658C74C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1176DE03-7BA1-4DAA-A146-2D95715FCD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1176DE03-7BA1-4DAA-A146-2D95715FCD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1176DE03-7BA1-4DAA-A146-2D95715FCD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1176DE03-7BA1-4DAA-A146-2D95715FCD8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
